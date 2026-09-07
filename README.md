@@ -12,6 +12,7 @@ https://github.com/avdvplus/service.coreelec.settings
 
 https://github.com/avdvplus/xbmc
 
+https://github.com/avdvplus/skin.avdvplus.estuary
 
 MESSAGE BOARD:
 
